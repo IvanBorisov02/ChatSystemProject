@@ -1,7 +1,7 @@
 # ChatSystemProject
 ===============================================
 Simple Chat System Project for Musala-Soft 
-===============================================
+=============================================
 
 This project is designed for the Internship in Musala-Soft.
 
